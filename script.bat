@@ -1,2 +1,2 @@
 
-echo Merry Christmas, $1
+echo Merry Christmas, %1
